@@ -11,7 +11,7 @@ For more information, in-depth tutorials, and API docs, we recommend visiting ou
 You can download the latest version of NEXT from github with the following clone command:
 
 ```
-$ git clone https://github.com/kgjamieson/NEXT.git
+$ git clone https://github.com/kgjamieson/NEXT-psych.git
 ```
 
 We are actively working to develop and improve NEXT, but users should be aware of the following caveats: 
